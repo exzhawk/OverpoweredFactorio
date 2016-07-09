@@ -1,7 +1,7 @@
 # OverpoweredFactorio
 Just another Factorio Mod
 
-Development workspace setup
+##Development workspace setup
 
 0. tell me you wanna join and I'll give you push access, or you have to fork and make a pull-request to contribute
 1. setup IDEA
