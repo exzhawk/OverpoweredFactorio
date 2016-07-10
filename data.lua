@@ -6,7 +6,7 @@
 -- To change this template use File | Settings | File Templates.
 --
 
-require("prototypes.item")
---require("prototypes.entity")
+require("prototypes.long-long-inserter")
+require("prototypes.tractor")
 --require("prototypes.recipe")
 --require("prototypes.technology")

@@ -7,6 +7,9 @@
 --
 
 data:extend({
+
+--Item
+
     {
         type = "item",
         name = "long-long-inserter",
@@ -16,6 +19,8 @@ data:extend({
         place_result = "long-long-inserter",
         stack_size = 50
     },
+
+--Recipe
 
     {
         type = "recipe",
@@ -29,6 +34,9 @@ data:extend({
         },
         result = "long-long-inserter"
     },
+
+--Entity
+
     {
         type = "inserter",
         name = "long-long-inserter",
